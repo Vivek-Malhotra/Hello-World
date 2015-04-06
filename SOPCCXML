@@ -1,0 +1,15 @@
+<CreditPrepayAccount>
+    <STD_UserAuthToken>LK/192.168.76.1/SoP-A/1428047000103</STD_UserAuthToken>
+    <STD_Source>ETOPUP</STD_Source>
+    <TRMS_RequestIndicator>00</TRMS_RequestIndicator>
+    <PPTC_PrimaryAccountNumber>8944112078029952407</PPTC_PrimaryAccountNumber>
+    <TRMS_CreateTimeStamp>03/04/2015 00:00:00</TRMS_CreateTimeStamp>
+    <TPUP_Currency>S</TPUP_Currency>
+    <TPUP_Amount>3000</TPUP_Amount>
+    <TPUP_TransactionId>ATLKO2000000001</TPUP_TransactionId>
+    <TPUP_SolutionProviderId>LK</TPUP_SolutionProviderId>
+    <TPUP_DistributorId>ATM</TPUP_DistributorId>
+    <TPUP_StoreNo>00000001</TPUP_StoreNo>
+    <TPUP_TerminalId>00000000</TPUP_TerminalId>
+    <TPUP_CashierId>0000</TPUP_CashierId>
+</CreditPrepayAccount>
